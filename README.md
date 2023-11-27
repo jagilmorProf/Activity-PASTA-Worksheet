@@ -27,7 +27,7 @@ II. **Define the technical scope**<br>
     With the utilization of SQL, it is advised to evaluate the risks of SQL injection attacks as it is the most prominent vulnerability on the list. The SHA-256 hash function is aimed at protecting user passwords and credit card information. Session hijacking is to be evaluated with the API and PKI technologies.
 
 III. **Decompose application**
-    ![Pasta-2.png](https://github.com/jagilmorProf/Activity-PASTA-Worksheet/blob/main/Pasta-2.png)
+    ![Pasta-4.png](https://github.com/jagilmorProf/Activity-PASTA-Worksheet/blob/main/Pasta-4.png)
 
 IV. **Threat analysis**<br>
     List 2 types of threats in the PASTA worksheet that are risks to the information being handled by the application.<br>
@@ -42,7 +42,7 @@ V. **Vulnerability analysis**<br>
     - Weak Login Credentials<br>
 
 VI. **Attack modeling**
-    ![Pasta-1.png](https://github.com/jagilmorProf/Activity-PASTA-Worksheet/blob/main/Pasta-1.png)
+    ![Pasta-5.png](https://github.com/jagilmorProf/Activity-PASTA-Worksheet/blob/main/Pasta-5.png)
 
 VII. **Risk analysis and impact**<br>
     List 4 security controls that you’ve learned about that can reduce risk.<br>
